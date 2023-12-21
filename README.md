@@ -1,1 +1,1 @@
-Exercícios individuais da matéria de organização e arquitetura de computadores
+Exercícios individuais da matéria de organização e arquitetura de computadores (SSC0902)
